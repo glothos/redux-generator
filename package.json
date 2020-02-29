@@ -1,0 +1,22 @@
+{
+  "name": "redux-dynamic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glothos/redux-dynamic.git"
+  },
+  "author": "glothos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glothos/redux-dynamic/issues"
+  },
+  "homepage": "https://github.com/glothos/redux-dynamic#readme"
+}
