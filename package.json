@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/glothos/redux-dynamic/issues"
   },
-  "homepage": "https://github.com/glothos/redux-dynamic#readme"
+  "homepage": "https://github.com/glothos/redux-dynamic#readme",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12",
+    "invariant": "^2.2.4",
+    "lodash": "^4.17.15",
+    "qs": "^6.9.1",
+    "redux-actions": "^2.6.5",
+    "reselect": "^4.0.0",
+    "whatwg-fetch": "^3.0.0"
+  }
 }
