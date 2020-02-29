@@ -25,6 +25,7 @@
     "lodash": "^4.17.15",
     "memorystorage": "^0.11.0",
     "qs": "^6.9.1",
+    "react": "^16.13.0",
     "redux-actions": "^2.6.5",
     "reselect": "^4.0.0",
     "whatwg-fetch": "^3.0.0"
