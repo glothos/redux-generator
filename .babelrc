@@ -1,0 +1,17 @@
+{
+  "presets": [
+    "@babel/env",
+    "@babel/preset-react"
+  ],
+  "plugins":[
+    "transform-class-properties",
+    ["transform-es2015-template-literals"],
+    "@babel/plugin-transform-regenerator",
+    "@babel/plugin-syntax-dynamic-import",
+    ["@babel/plugin-transform-runtime"],
+    ["module-resolver", {
+      "cwd": "babelrc",
+      "root": ["./lib"]
+    }]
+  ]
+}
